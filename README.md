@@ -2,7 +2,7 @@
 
 Este é um projeto de jogo de cartas inspirado no universo de Yu-Gi-Oh!, utilizando a lógica clássica de **Jokenpô** (Pedra, Papel e Tesoura). O projeto foi desenvolvido como parte de um desafio de lógica de programação e manipulação de DOM.
 
-![Preview do Jogo](https://via.placeholder.com/800x450?text=Yu-Gi-Oh+Jokenpo+Preview)
+![Preview do Jogo](./preview3.png)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -33,9 +33,6 @@ Este é um projeto de jogo de cartas inspirado no universo de Yu-Gi-Oh!, utiliza
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/yugioh-jokenpo.git](https://github.com/seu-usuario/yugioh-jokenpo.git)
+    git clone [https://github.com/RenatoMacedoA/Yu-Gi-Oh-GAME.git](https://github.com/RenatoMacedoA/Yu-Gi-Oh-GAME.git)
     ```
 2.  Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador.
-
----
-Desenvolvido com 🃏 por [Seu Nome] durante o Bootcamp.
