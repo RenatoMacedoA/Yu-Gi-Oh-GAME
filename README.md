@@ -33,6 +33,6 @@ Este é um projeto de jogo de cartas inspirado no universo de Yu-Gi-Oh!, utiliza
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/RenatoMacedoA/Yu-Gi-Oh-GAME.git](https://github.com/RenatoMacedoA/Yu-Gi-Oh-GAME.git)
+    git clone https://github.com/RenatoMacedoA/Yu-Gi-Oh-GAME.git
     ```
 2.  Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador.
